@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginApp", "LoginApp\LoginApp.csproj", "{DF5FC4B6-2B83-42AB-8214-F2F69AF61BAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchData", "SearchData\SearchData.csproj", "{285BC2E0-27A2-4C75-9066-43CC9463D35A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseS4L", "DatabaseS4L\DatabaseS4L.csproj", "{B5412256-5710-403F-A353-5D2D95545B24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF5FC4B6-2B83-42AB-8214-F2F69AF61BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF5FC4B6-2B83-42AB-8214-F2F69AF61BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF5FC4B6-2B83-42AB-8214-F2F69AF61BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF5FC4B6-2B83-42AB-8214-F2F69AF61BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{285BC2E0-27A2-4C75-9066-43CC9463D35A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285BC2E0-27A2-4C75-9066-43CC9463D35A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285BC2E0-27A2-4C75-9066-43CC9463D35A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285BC2E0-27A2-4C75-9066-43CC9463D35A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5412256-5710-403F-A353-5D2D95545B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5412256-5710-403F-A353-5D2D95545B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5412256-5710-403F-A353-5D2D95545B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5412256-5710-403F-A353-5D2D95545B24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75BFBD3E-4334-46DB-BC44-1E1D56EB21D2}
+	EndGlobalSection
+EndGlobal
